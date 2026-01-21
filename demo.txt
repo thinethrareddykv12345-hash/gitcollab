@@ -1,2 +1,4 @@
 this is about merging
 message from featurebranch
+message 2 from featurebranch
+message 2 from featurebranch
